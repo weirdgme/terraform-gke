@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: app-deploy-demo
+  labels:
+    app: app-deploy-demo
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: app-deploy-demo
+  template:
+    metadata:
+      labels:
+        app: app-deploy-demo
+    spec:
+      containers:
+        - name: app-deploy-demo
+          image: kserge2001/school
