@@ -50,7 +50,7 @@ Before `plan` and `apply`, always clean up your code:
 
 ## Author Information
 
-This repository is maintained by Serge (https://github.com/kserge2001) 
+This repository is maintained by JImi (https://github.com/weirdgme) 
 
 ## License
 
