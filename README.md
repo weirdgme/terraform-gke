@@ -39,7 +39,7 @@ We used the following modules:
 * `network` by Google: [registry.terraform.io/modules/terraform-google-modules/network/google](https://registry.terraform.io/modules/terraform-google-modules/network/google/2.4.0)
 * `kubernetes-engine` by Google: [registry.terraform.io/modules/terraform-google-modules/kubernetes-engine/google](https://registry.terraform.io/modules/terraform-google-modules/kubernetes-engine/google/10.0.0)
 
-These modules are defined in [network.tf](https://github.com/ksatirli/understanding-the-google-provider-for-terraform-feat-k8s/blob/master/network.tf) and [cluster.tf](https://github.com/ksatirli/understanding-the-google-provider-for-terraform-feat-k8s/blob/master/cluster.tf)
+These modules are defined in [network.tf](https://github.com/weirdgme/understanding-the-google-provider-for-terraform-feat-k8s/blob/master/network.tf) and [cluster.tf](https://github.com/weirdgme/understanding-the-google-provider-for-terraform-feat-k8s/blob/master/cluster.tf)
 
 ### Code Quality
 
